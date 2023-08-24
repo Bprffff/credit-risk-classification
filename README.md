@@ -1,5 +1,6 @@
 # credit-risk-classification
 Module 20 Challenge
+PLEASE VIEW REPORT IN 'RAW' VIEW MODE - NOTES ARE CORRECTLY OUTLINED AND STRUCTURED IN A CLEAR READABLE FORMAT. THANK YOU!
 
 # Module 20 Report Template
 
